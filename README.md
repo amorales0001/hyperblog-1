@@ -1,8 +1,9 @@
+------------
 # Hyperblog  💙
 
 
 
-Un blog ejemplo para el [Curso Profesional de Git y Github de Platzi](https://platzi.com/clases/git-github/ "Curso Profesional de Git y Github de Platzi")
+Un blog ejemplo para el [Curso Profesional de Git y GitHub de Platzi](https://platzi.com/clases/git-github/ "Curso Profesional de Git y Github de Platzi")
 
 ------------
 
@@ -19,13 +20,10 @@ Un blog ejemplo para el [Curso Profesional de Git y Github de Platzi](https://pl
 Con el curso estarás completamente list@ para crear y colaborar en todo tipo de proyectos de tu interés, de manera ágil y fluída. 
 
 ------------
-
-------------
-
 # Hyperblog  💙
 
 
-This is a blog example for the course [Curso Profesional de Git y Github de Platzi](https://platzi.com/clases/git-github/ "Curso Profesional de Git y Github de Platzi")
+This is a blog example for the course [Curso Profesional de Git y GitHub de Platzi](https://platzi.com/clases/git-github/ "Curso Profesional de Git y Github de Platzi")
 
 ------------
 
@@ -40,7 +38,5 @@ This is a blog example for the course [Curso Profesional de Git y Github de Plat
 ------------
 
 With this course you will be completely ready to create and collaborate in all kinds of projects of your interest, in a fluid way. 
-
-------------
 
 ------------
