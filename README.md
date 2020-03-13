@@ -1,4 +1,4 @@
-# # Hyperblog  💙
+# Hyperblog  💙
 
 
 
@@ -22,10 +22,13 @@ Con el curso estarás completamente list@ para crear y colaborar en todo tipo de
 
 ------------
 
-# # Hyperblog  💙
+# Hyperblog  💙
 
 
 This is a blog example for the course [Curso Profesional de Git y Github de Platzi](https://platzi.com/clases/git-github/ "Curso Profesional de Git y Github de Platzi")
+
+------------
+
 
 ## **A very complete course where you can learn:**
 
@@ -41,4 +44,3 @@ With this course you will be completely ready to create and collaborate in all k
 ------------
 
 ------------
-
