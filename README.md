@@ -1,14 +1,14 @@
 # # Hyperblog  💙
 
-------------
+
 
 Un blog ejemplo para el [Curso Profesional de Git y Github de Platzi](https://platzi.com/clases/git-github/ "Curso Profesional de Git y Github de Platzi")
 
 ------------
 
+
 ## **Un curso muy completo donde se aprende:**
 
-------------
 - Todos los comandos de Git
 - El flujo de trabajo en GitHub
 - Buenas prácticas
@@ -24,15 +24,11 @@ Con el curso estarás completamente list@ para crear y colaborar en todo tipo de
 
 # # Hyperblog  💙
 
-------------
 
 This is a blog example for the course [Curso Profesional de Git y Github de Platzi](https://platzi.com/clases/git-github/ "Curso Profesional de Git y Github de Platzi")
 
-------------
-
 ## **A very complete course where you can learn:**
 
-------------
 - All Git commands
 - The complete workflow on GitHub
 - Good practices
